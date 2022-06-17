@@ -5,9 +5,9 @@
 - Translated to many OOP languages - C#, Java, C++, etc.
 - Universally relevant -> They would continue to be relevant. Also, some of the modern programming languages internalize design patterns, making them part of the language itself.
 
-### SOLID Design Principles
+### -> SOLID Design Principles
 
-### Categories of Design Patterns
+### -> Categories of Design Patterns
 1. Creational
 2. Structural
 3. Behavioral
